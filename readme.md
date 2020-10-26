@@ -35,6 +35,7 @@ client.login(config.TOKEN);                    //start the bot with the bot toke
 
 ## Tutorial Vid
 
+[![Transcription System](http://img.youtube.com/vi/Tv3RJ5SRdMo/0.jpg)](http://www.youtube.com/watch?v=Tv3RJ5SRdMo "Transcription System")
 
 
 ## **NOTE:**
