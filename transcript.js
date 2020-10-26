@@ -96,7 +96,7 @@ module.exports = function (client, cmd, msglimit) {
       else {
         umsg = msg.content;
       }
-      pObj.addText(umsg, { font_face: 'Arial', color: '000000', bold: false, font_size: 10 }).catch();
+      pObj.addText(umsg, { font_face: 'Arial', color: '000000', bold: false, font_size: 10 });
       //LINEBREAK
       pObj.addLineBreak()
       pObj.addText(`______________________________________________________________________________________________________________________________________________________________________________________________________________`, { color: 'a6a6a6', font_size: 4 });
